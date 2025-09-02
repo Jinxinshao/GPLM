@@ -2,11 +2,15 @@
 GPLM: Enhancing underwater images with Global Pyramid Linear Modulation
 https://www.sciencedirect.com/science/article/pii/S0262885624004669
 
+saved_model.rar: https://drive.google.com/file/d/1JO2HfVCz13Nrt-oIlui0VjkzA0GbIQdH/view?usp=sharing
+
+
 if you like, please cite GPLM: Enhancing underwater images with Global Pyramid Linear Modulation.
 Thank you very much!
 ![Logo](./new_figure1.png)
 Dr. Jinxin SHAO
 2025/5/8
+
 
 Dangan1190 dataset:
 
